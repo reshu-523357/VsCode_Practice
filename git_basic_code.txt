@@ -1,1 +1,1 @@
-Im pushing code from vscode to goit hub
+Im pushing code from vscode to git hub
